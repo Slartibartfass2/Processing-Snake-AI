@@ -2,7 +2,7 @@
 
 An evolutional AI playing Snake.
 
-This was a project I made in 2018 when I got inspired by [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos) to work [Processing](https://processing.org/).
+This was a project I made in 2018 when I got inspired by [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos) to work with [Processing](https://processing.org/).
 
 ## What it does
 
